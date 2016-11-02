@@ -1,0 +1,17 @@
+body{
+  background-color:black;
+  color:white;
+   
+}
+h2{
+  font-size:100px;
+  font-family:Fantasy;
+}
+h3{
+  font-size:30px;
+  color:red;
+}
+.BigLink{
+  font-size:40px;
+  font-family:cursive;
+}
